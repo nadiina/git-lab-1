@@ -1,3 +1,3 @@
 # Drone Mission Planner Lab
 
-Fix conflict
+Fix conflictHotfix info
